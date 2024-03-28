@@ -1,0 +1,20 @@
+/* Write your CSS here */
+
+* {
+  margin:;
+}
+
+.bg-container {
+  background: linear-gradient(to bottom, #2b2c49, #303150, #b5b9ff);
+  height: 80%;
+  margin: 75px;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  background-color: #ffffff;
+  height: 100vh;
+}
